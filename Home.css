@@ -339,11 +339,16 @@
     padding-left: 30px;
     padding-right: 30px;
   }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
+    margin-bottom: initial;
+  }
 }
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 942px;
+    min-height: 943px;
   }
 
   .u-section-1 .u-group-1 {
